@@ -1,0 +1,16 @@
+image,caption
+dog_beach.jpg,A black dog running along the edge of the ocean .
+dog_beach.jpg,A black dog runs along the beach .
+dog_beach.jpg,A black dog runs through surf on a sandy beach .
+dog_beach.jpg,A dog runs along the ocean surf .
+dog_beach.jpg,Black dog is running on clean sand beach .
+dog.jpg,A black and brown furry dog is running in the grass .
+dog.jpg,a brown and black dog running through a grassy field
+dog.jpg,A large dog frolics in the grass .
+dog.jpg,A long haired black and brown dog runs through the grass .
+dog.jpg,Black dog running on green grass with mouth open .
+mountain.jpg,A man mountain climbing up an icy mountain .
+mountain.jpg,An climber is ascending an ice covered rock face .
+mountain.jpg,A person in orange climbs a sheer cliff face covered in snow and ice .
+mountain.jpg,Person in a yellow jacket is climbing up snow covered rocks .
+mountain.jpg,There is a climber scaling a snowy mountainside .
