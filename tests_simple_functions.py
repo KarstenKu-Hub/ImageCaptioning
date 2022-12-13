@@ -8,7 +8,6 @@ import torchvision.transforms as transforms
 import pandas as pd
 
 
-
 if __name__ == "__main__":
     # How does the Vocabulary class for the tokenizing process work?
     print("")
