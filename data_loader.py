@@ -12,7 +12,7 @@ spacy_eng = spacy.load("en_core_web_sm")
 class Vocabulary:
     def __init__(self, freq_threshold):
         self.itos = {0: "<PAD>", 1: "<SOS>", 2: "<EOS>", 3: "<UNK>"}
-        self.stoi = {"<PAD>": 0, "<EOS>": 1, "<SOS>": 2, "<UNK>": 3}
+        self.stoi = {"<PAD>": 0, "<SOS>": 1, "<EOS>": 2, "<UNK>": 3}
         self.freq_threshold = freq_threshold
 
     def __len__(self):
